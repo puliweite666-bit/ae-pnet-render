@@ -1,0 +1,5 @@
+{
+  "sampling_rate": 6250000,
+  "window_size": 9000,
+  "default_threshold": 0.5
+}
